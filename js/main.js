@@ -1,6 +1,6 @@
-var preHome = (87.41 * nResidents^0.69) * 365;
-var standHome = (67.251 * nResidents^0.6541) * 365;
-var effHome =(59.58 * nResidents^0.53) * 365;
+//var preHome = (87.41 * nResidents^0.69) * 365;
+//var standHome = (67.251 * nResidents^0.6541) * 365;
+//var effHome =(59.58 * nResidents^0.53) * 365;
 
 function waterUse(){
 	var nResidents = a1;
