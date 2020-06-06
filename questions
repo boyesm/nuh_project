@@ -1,0 +1,12 @@
+q1: How many full-time residents are in your home?
+q2: How often do you brush your teeth everyday? //once a day or two times a day
+q3: How often do you shave every week?
+q4: How long do you shower for? //measured in minutes
+q5: How often do you bathe per week?
+q6: Do you own an efficient clothes washer?
+  q6a: How often do you wash your clothes per week?
+q7: Do you own a dishwasher?
+  q7a: How often do you wash your dishes per week?
+q8 How often do you wash your car?
+q9 Do you own a swimming pool?
+  q9a: How often do you top up your pool? //measured in times per month
