@@ -29,5 +29,7 @@ function waterUse(){
 		var q9a = 0;
 	}
 
+	return (q2 + q3 + q4 + q5 + q6a + q7a + q8 + q9);
+	return (q2 + q3 + q4 + q5 + q6a + q7a + q8 + q9) * 7;
 	return (q2 + q3 + q4 + q5 + q6a + q7a + q8 + q9) * 365;
 }
